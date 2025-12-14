@@ -41,3 +41,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related Resources
+- [Stakeholder Engagement Checklist](octoacme-stakeholder-engagement.md) — Systematically identify and engage stakeholders
+- [Onboarding Checklist](octoacme-onboarding-checklist.md) — Onboard new team members joining the project
+- [Roles & Personas](octoacme-roles-and-personas.md) — Understand team roles and responsibilities

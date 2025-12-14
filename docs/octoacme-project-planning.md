@@ -41,3 +41,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related Resources
+- [Cross-Team Communication Guide](octoacme-cross-team-communication.md) — Manage cross-team dependencies
+- [Onboarding Checklist](octoacme-onboarding-checklist.md) — Onboard new team members for the project
+- [Stakeholder Engagement Checklist](octoacme-stakeholder-engagement.md) — Engage stakeholders during planning
+- [Roles & Personas](octoacme-roles-and-personas.md) — Understand role responsibilities in planning
