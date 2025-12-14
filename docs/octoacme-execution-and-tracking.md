@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Resources
+- [Cross-Team Communication Guide](octoacme-cross-team-communication.md) — Managing dependencies and cross-team coordination
+- [Roles & Personas](octoacme-roles-and-personas.md) — Team responsibilities during execution
+- [Risk Management & Communication](octoacme-risks-and-communication.md) — Risk tracking and escalation

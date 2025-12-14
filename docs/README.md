@@ -149,6 +149,17 @@ Provide inputs, approvals, and feedback throughout the project lifecycle.
 - Review progress and provide timely feedback
 - Make key decisions when needed
 
+---
+
+### **Additional Collaborative Roles**
+
+OctoAcme projects also benefit from additional specialized roles that enhance cross-functional collaboration:
+
+- **Scrum Master:** Facilitates agile ceremonies and removes impediments
+- **UX Designer:** Designs user-centered interfaces and validates usability
+- **Business Analyst:** Bridges business and technical teams with clear requirements
+- **Support Engineer:** Provides customer insights and troubleshoots issues
+
 📄 **[Read more: Detailed Personas & Responsibilities →](octoacme-roles-and-personas.md)**
 
 ---
@@ -225,6 +236,14 @@ OctoAcme projects use standardized artifacts to maintain consistency:
 | **Release Notes** | Document changes and migration steps | Release |
 | **Retrospective Notes & Action Items** | Capture learnings and improvements | Closing |
 
+### Process Checklists
+
+To enhance consistency and accountability, use these checklists throughout the project lifecycle:
+
+- **[Onboarding Checklist](octoacme-onboarding-checklist.md)** — Accelerate new team member integration
+- **[Cross-Team Communication Guide](octoacme-cross-team-communication.md)** — Coordinate across multiple teams
+- **[Stakeholder Engagement Checklist](octoacme-stakeholder-engagement.md)** — Systematically manage stakeholder relationships
+
 📄 **[View sample templates in individual guides →](octoacme-project-management-overview.md)**
 
 ---
@@ -277,6 +296,7 @@ To maximize the value of these processes:
 
 ## Additional Resources
 
+### Core Process Guides
 - [Project Management Overview](octoacme-project-management-overview.md) — High-level principles and scope
 - [Project Initiation Guide](octoacme-project-initiation.md) — Validate and authorize work
 - [Project Planning Guide](octoacme-project-planning.md) — Create actionable plans and backlogs
@@ -285,6 +305,11 @@ To maximize the value of these processes:
 - [Retrospective & Continuous Improvement Guide](octoacme-retrospective-and-continuous-improvement.md) — Learn and iterate
 - [Roles & Personas](octoacme-roles-and-personas.md) — Detailed role definitions
 - [Risk Management & Communication](octoacme-risks-and-communication.md) — Manage risks and stakeholders
+
+### Checklists & Tools
+- [Onboarding Checklist](octoacme-onboarding-checklist.md) — Structured onboarding for new team members
+- [Cross-Team Communication Guide](octoacme-cross-team-communication.md) — Effective cross-team collaboration
+- [Stakeholder Engagement Checklist](octoacme-stakeholder-engagement.md) — Systematic stakeholder management
 
 ---
 
